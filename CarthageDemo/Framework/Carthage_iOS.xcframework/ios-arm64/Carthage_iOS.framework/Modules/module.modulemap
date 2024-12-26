@@ -1,0 +1,6 @@
+framework module Carthage_iOS {
+  umbrella header "Carthage_iOS.h"
+  export *
+
+  module * { export * }
+}
